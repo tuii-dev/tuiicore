@@ -1,9 +1,6 @@
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
+import 'package:tuiicore/core/config/data_models.dart';
 
 part 'tag_manager_event.dart';
 part 'tag_manager_state.dart';

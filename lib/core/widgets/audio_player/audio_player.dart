@@ -1,14 +1,10 @@
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
 import 'package:audio_session/audio_session.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:rxdart/rxdart.dart';
-import 'package:tuiiweb/core/widgets/audio_player/common.dart';
-import 'package:tuiiweb/core/widgets/resource_download_button.dart';
+import 'package:tuiicore/core/widgets/audio_player/common.dart';
+import 'package:tuiicore/core/widgets/resource_download_button.dart';
 
 class TuiiAudioPlayer extends StatefulWidget {
   const TuiiAudioPlayer(
