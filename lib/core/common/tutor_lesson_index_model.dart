@@ -1,14 +1,12 @@
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
 import 'dart:convert';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:equatable/equatable.dart';
-import 'package:tuiiweb/core/enums/enums.dart';
-import 'package:tuiiweb/core/enums/lesson_workflow_type.dart';
+import 'package:tuiicore/core/enums/attendance_status_type.dart';
+import 'package:tuiicore/core/enums/lesson_delivery_type.dart';
+import 'package:tuiicore/core/enums/lesson_workflow_type.dart';
+import 'package:tuiicore/core/enums/rtc_channel_type.dart';
+import 'package:tuiicore/core/enums/rtc_provider_type.dart';
 
 class LessonIndexModel extends Equatable {
   final String? id;

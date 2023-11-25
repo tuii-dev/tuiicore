@@ -1,7 +1,4 @@
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
-import 'package:tuiicore/config.dart';
+import 'package:tuiicore/core/common/core_i18n.dart';
 import 'package:tuiicore/core/config/theme/tuii_colors.dart';
 import 'package:tuiicore/core/enums/enrollment_status_type.dart';
 import 'package:tuiicore/core/enums/lesson_booking_status_type.dart';
