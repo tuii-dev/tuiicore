@@ -1,0 +1,1 @@
+enum LessonAppointmentType { confirmed, unconfirmed, cosmetic, unknown }

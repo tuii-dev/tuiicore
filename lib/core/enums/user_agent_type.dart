@@ -1,0 +1,1 @@
+enum UserAgentType { appleType, androidType, desktop }

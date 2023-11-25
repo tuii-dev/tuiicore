@@ -1,0 +1,1 @@
+enum ShimmerComponentType { task, resource, lesson }
